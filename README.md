@@ -1,6 +1,6 @@
 # Toxicity classifier using ReactJs
 
-This is an application for classifying the Toxicity in text based on the below categories.
+ ![React App - ](https://github.com/stsfaroz/Toxicity-classifier-using-ReactJs/blob/main/ret.png) This is an application for classifying the Toxicity in text based on the below categories.
 * toxic
 * evere_toxic
 * obscene
