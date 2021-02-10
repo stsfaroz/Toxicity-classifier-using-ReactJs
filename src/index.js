@@ -91,14 +91,14 @@ class Main extends React.Component {
     <br/> <br/><br/><br/>
       <form onSubmit={this.handlesubmit}>
           {header}
-          <h3>Type About Someone You Hate:</h3>
+          <h4>Type About Someone You Hate:</h4>
             <textarea
               type='text'
               onChange={this.currentchange}
               placeholder="type.." 
             />
             <br/>
-            <button class="button button1">Green</button>
+            <button class="button button1">Check</button>
 
       </form>
     <br/> <br/><br/><br/>
