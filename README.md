@@ -1,6 +1,6 @@
 # Toxicity classifier using ReactJs
 
- ![React App](ret.png =200x200)This is an application for classifying the Toxicity in text based on the below categories.
+ ![React App](./ret.png =200x200)This is an application for classifying the Toxicity in text based on the below categories.
 * toxic
 * evere_toxic
 * obscene
