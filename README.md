@@ -1,6 +1,8 @@
 # Toxicity classifier using ReactJs  <img src="https://github.com/stsfaroz/Toxicity-classifier-using-ReactJs/blob/main/ret.png" width="50" height="40" />
 
- 
+#### [Demo](https://toxicity-reactjs.herokuapp.com/)
+
+
  This is an application for classifying the Toxicity in text based on the below categories.
 * toxic
 * evere_toxic
@@ -19,6 +21,7 @@ $ npm --version
 ## Getting Started
 
 Download the repository 
+
 In the project directory, you can run:
 
 ###### `$ npm install`
